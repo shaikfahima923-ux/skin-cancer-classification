@@ -1,0 +1,14 @@
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+dataset/
+.env
+models/
+*.h5
+*.keras
+*.weights.h5
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
