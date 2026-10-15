@@ -1,0 +1,27 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Dataset - do not upload to GitHub
+dataset/
+
+# Trained models - do not upload large files
+models/
+*.h5
+*.keras
+*.weights.h5
+
+# Environment variables and secrets
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db

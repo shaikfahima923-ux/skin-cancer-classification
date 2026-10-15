@@ -1,0 +1,112 @@
+Unique Train image contents: 2100
+Unique Test image contents: 118
+Exact duplicate contents across splits: 18
+
+Matching hash: 0b1d88a0dd7b62d79d9fd6dbb734b6541fb2d96b85d1e4ef9112243116f20b0b
+Train files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Train\melanoma\ISIC_0010809.jpg
+Test files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Test\seborrheic keratosis\ISIC_0010809.jpg
+
+Matching hash: 1833b88c68c33985bb960be3d6546b23f3dd264a6a09545f87686064aec9e8a3
+Train files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Train\nevus\ISIC_0024470.jpg
+Test files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Test\actinic keratosis\ISIC_0024470.jpg
+
+Matching hash: 1c4e873a81d76be4bece4470968d0867882ebe9720eaae0862c7949535654015
+Train files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Train\nevus\ISIC_0024646.jpg
+Test files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Test\actinic keratosis\ISIC_0024646.jpg
+
+Matching hash: 2398e22dc52ea0fe2ba3ea37062275fefccee9a98190d90df7a116706779b345
+Train files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Train\nevus\ISIC_0010889.jpg
+Test files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Test\actinic keratosis\ISIC_0010889.jpg
+
+Matching hash: 3a6bfdd593c2c3d93f750f628605bbf2fbc825113b7228c757f7e62ebd2948d3
+Train files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Train\nevus\ISIC_0024948.jpg
+Test files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Test\actinic keratosis\ISIC_0024948.jpg
+
+Matching hash: 3cb2b5c76dcb6698c46f522f2ff2f259c8b1f1b194e523b9158ea05a7c1660a8
+Train files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Train\nevus\ISIC_0025427.jpg
+Test files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Test\actinic keratosis\ISIC_0025427.jpg
+
+Matching hash: 47c42f7f0cdc72ab02d85d89f7105daa8fb80a34ff4866765ecde2a96d9b44de
+Train files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Train\nevus\ISIC_0024763.jpg
+Test files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Test\actinic keratosis\ISIC_0024763.jpg
+
+Matching hash: 47d214f8089cfeaede281061d32d7b952910e2c5bf774f87817c24147e423cc4
+Train files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Train\nevus\ISIC_0024468.jpg
+Test files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Test\actinic keratosis\ISIC_0024468.jpg
+
+Matching hash: 49f5511c06650b6990d4f1e20358bf484ae35b7eea8826b4a6a9b549379634e0
+Train files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Train\nevus\ISIC_0025368.jpg
+Test files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Test\actinic keratosis\ISIC_0025368.jpg
+
+Matching hash: 4b59fcaef6f41f9c20b49a2bff5dfb39cad0eb4ed64f62093f650abf7a94f680
+Train files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Train\nevus\ISIC_0025605.jpg
+Test files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Test\actinic keratosis\ISIC_0025605.jpg
+
+Matching hash: 51893e09f1c17f2fc7859d36b118ae245225160eb68b4aa7e6f5150e53821ce9
+Train files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Train\nevus\ISIC_0024913.jpg
+Test files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Test\actinic keratosis\ISIC_0024913.jpg
+
+Matching hash: 69722b5451b889cf7c28213dd9ef62cbe28139fb5a3cf0f41d43830fe23cb2dc
+Train files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Train\nevus\ISIC_0024511.jpg
+Test files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Test\actinic keratosis\ISIC_0024511.jpg
+
+Matching hash: 748adee178e6ce2087e3cfe61b41c7c8359cbef17c4d07d4267e0f8f0bb1255c
+Train files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Train\nevus\ISIC_0024771.jpg
+Test files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Test\actinic keratosis\ISIC_0024771.jpg
+
+Matching hash: 799c6fda24447e0558ec7a6e628f395053541343053b7cc9e0f5857b7e255386
+Train files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Train\nevus\ISIC_0024707.jpg
+Test files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Test\actinic keratosis\ISIC_0024707.jpg
+
+Matching hash: 7a5a9a0a7faad09ba60513ec8c0f0046cdea520899aea4bf6c9e9614e30a2879
+Train files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Train\nevus\ISIC_0010512.jpg
+Test files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Test\actinic keratosis\ISIC_0010512.jpg
+
+Matching hash: a9704842a1b371ffe65cb9e6c84594de425ff42d4e9396101c28219e4e728881
+Train files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Train\melanoma\ISIC_0010803.jpg
+Test files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Test\seborrheic keratosis\ISIC_0010803.jpg
+
+Matching hash: f10641e0a858fdd4e9514633fe31b76aa56eb5233d5d9a07f4111bddafbc8968
+Train files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Train\nevus\ISIC_0024800.jpg
+Test files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Test\actinic keratosis\ISIC_0024800.jpg
+
+Matching hash: ffd7483a2193f089b2ecdbc3cd96ea243783ed1bb250ff6b22333707e685f84c
+Train files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Train\melanoma\ISIC_0010808.jpg
+Test files:
+  dataset\raw\Skin cancer ISIC The International Skin Imaging Collaboration\Test\seborrheic keratosis\ISIC_0010808.jpg
+
