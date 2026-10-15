@@ -10,14 +10,14 @@ venv/
 # Dataset - do not upload to GitHub
 dataset/
 
+# Environment variables and secrets
+.env
+
 # Trained models - do not upload large files
 models/
 *.h5
 *.keras
 *.weights.h5
-
-# Environment variables and secrets
-.env
 
 # Jupyter Notebook
 .ipynb_checkpoints/
