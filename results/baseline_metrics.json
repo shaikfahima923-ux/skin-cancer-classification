@@ -1,0 +1,22 @@
+{
+    "model": "EfficientNetB0",
+    "method": "Transfer learning and fine-tuning",
+    "image_size": "224x224",
+    "batch_size": 16,
+    "seed": 42,
+    "class_names": [
+        "actinic keratosis",
+        "basal cell carcinoma",
+        "dermatofibroma",
+        "melanoma",
+        "nevus",
+        "pigmented benign keratosis",
+        "seborrheic keratosis",
+        "squamous cell carcinoma",
+        "vascular lesion"
+    ],
+    "test_loss": 1.699210524559021,
+    "test_accuracy": 0.39830508828163147,
+    "test_macro_f1": 0.36501084883889845,
+    "test_weighted_f1": 0.36280984943052014
+}
