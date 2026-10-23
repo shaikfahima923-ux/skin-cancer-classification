@@ -1,0 +1,119 @@
+true_label,predicted_label,correct
+actinic keratosis,pigmented benign keratosis,False
+actinic keratosis,nevus,False
+actinic keratosis,squamous cell carcinoma,False
+actinic keratosis,squamous cell carcinoma,False
+actinic keratosis,basal cell carcinoma,False
+actinic keratosis,pigmented benign keratosis,False
+actinic keratosis,pigmented benign keratosis,False
+actinic keratosis,actinic keratosis,True
+actinic keratosis,actinic keratosis,True
+actinic keratosis,squamous cell carcinoma,False
+actinic keratosis,pigmented benign keratosis,False
+actinic keratosis,pigmented benign keratosis,False
+actinic keratosis,nevus,False
+actinic keratosis,basal cell carcinoma,False
+actinic keratosis,basal cell carcinoma,False
+actinic keratosis,pigmented benign keratosis,False
+basal cell carcinoma,squamous cell carcinoma,False
+basal cell carcinoma,squamous cell carcinoma,False
+basal cell carcinoma,basal cell carcinoma,True
+basal cell carcinoma,pigmented benign keratosis,False
+basal cell carcinoma,nevus,False
+basal cell carcinoma,pigmented benign keratosis,False
+basal cell carcinoma,pigmented benign keratosis,False
+basal cell carcinoma,nevus,False
+basal cell carcinoma,basal cell carcinoma,True
+basal cell carcinoma,basal cell carcinoma,True
+basal cell carcinoma,basal cell carcinoma,True
+basal cell carcinoma,basal cell carcinoma,True
+basal cell carcinoma,squamous cell carcinoma,False
+basal cell carcinoma,melanoma,False
+basal cell carcinoma,squamous cell carcinoma,False
+basal cell carcinoma,pigmented benign keratosis,False
+dermatofibroma,melanoma,False
+dermatofibroma,nevus,False
+dermatofibroma,dermatofibroma,True
+dermatofibroma,pigmented benign keratosis,False
+dermatofibroma,nevus,False
+dermatofibroma,squamous cell carcinoma,False
+dermatofibroma,pigmented benign keratosis,False
+dermatofibroma,nevus,False
+dermatofibroma,dermatofibroma,True
+dermatofibroma,dermatofibroma,True
+dermatofibroma,vascular lesion,False
+dermatofibroma,dermatofibroma,True
+dermatofibroma,melanoma,False
+dermatofibroma,pigmented benign keratosis,False
+dermatofibroma,pigmented benign keratosis,False
+dermatofibroma,basal cell carcinoma,False
+melanoma,nevus,False
+melanoma,vascular lesion,False
+melanoma,nevus,False
+melanoma,nevus,False
+melanoma,nevus,False
+melanoma,melanoma,True
+melanoma,nevus,False
+melanoma,melanoma,True
+melanoma,nevus,False
+melanoma,nevus,False
+melanoma,nevus,False
+melanoma,nevus,False
+melanoma,nevus,False
+melanoma,melanoma,True
+melanoma,nevus,False
+melanoma,pigmented benign keratosis,False
+nevus,nevus,True
+nevus,nevus,True
+nevus,nevus,True
+nevus,nevus,True
+nevus,nevus,True
+nevus,nevus,True
+nevus,nevus,True
+nevus,nevus,True
+nevus,nevus,True
+nevus,nevus,True
+nevus,pigmented benign keratosis,False
+nevus,nevus,True
+nevus,nevus,True
+nevus,nevus,True
+nevus,melanoma,False
+nevus,nevus,True
+pigmented benign keratosis,squamous cell carcinoma,False
+pigmented benign keratosis,pigmented benign keratosis,True
+pigmented benign keratosis,pigmented benign keratosis,True
+pigmented benign keratosis,pigmented benign keratosis,True
+pigmented benign keratosis,melanoma,False
+pigmented benign keratosis,pigmented benign keratosis,True
+pigmented benign keratosis,pigmented benign keratosis,True
+pigmented benign keratosis,pigmented benign keratosis,True
+pigmented benign keratosis,actinic keratosis,False
+pigmented benign keratosis,pigmented benign keratosis,True
+pigmented benign keratosis,pigmented benign keratosis,True
+pigmented benign keratosis,pigmented benign keratosis,True
+pigmented benign keratosis,melanoma,False
+pigmented benign keratosis,pigmented benign keratosis,True
+pigmented benign keratosis,squamous cell carcinoma,False
+pigmented benign keratosis,basal cell carcinoma,False
+seborrheic keratosis,melanoma,False
+seborrheic keratosis,melanoma,False
+seborrheic keratosis,melanoma,False
+squamous cell carcinoma,nevus,False
+squamous cell carcinoma,melanoma,False
+squamous cell carcinoma,squamous cell carcinoma,True
+squamous cell carcinoma,squamous cell carcinoma,True
+squamous cell carcinoma,pigmented benign keratosis,False
+squamous cell carcinoma,squamous cell carcinoma,True
+squamous cell carcinoma,basal cell carcinoma,False
+squamous cell carcinoma,nevus,False
+squamous cell carcinoma,squamous cell carcinoma,True
+squamous cell carcinoma,pigmented benign keratosis,False
+squamous cell carcinoma,pigmented benign keratosis,False
+squamous cell carcinoma,pigmented benign keratosis,False
+squamous cell carcinoma,pigmented benign keratosis,False
+squamous cell carcinoma,basal cell carcinoma,False
+squamous cell carcinoma,squamous cell carcinoma,True
+squamous cell carcinoma,squamous cell carcinoma,True
+vascular lesion,vascular lesion,True
+vascular lesion,vascular lesion,True
+vascular lesion,vascular lesion,True
