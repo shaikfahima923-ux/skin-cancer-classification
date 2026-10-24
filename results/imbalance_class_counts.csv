@@ -1,0 +1,10 @@
+class_index,class_name,train_images,share_percent,weight_balanced,weight_sqrt
+0,actinic keratosis,96,5.36,2.0741,1.4402
+1,basal cell carcinoma,310,17.3,0.6423,0.8014
+2,dermatofibroma,78,4.35,2.5527,1.5977
+3,melanoma,343,19.14,0.5805,0.7619
+4,nevus,286,15.96,0.6962,0.8344
+5,pigmented benign keratosis,369,20.59,0.5396,0.7346
+6,seborrheic keratosis,61,3.4,3.2641,1.8067
+7,squamous cell carcinoma,142,7.92,1.4022,1.1841
+8,vascular lesion,107,5.97,1.8609,1.3641

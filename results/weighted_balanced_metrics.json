@@ -1,0 +1,20 @@
+{
+    "run": "weighted_balanced",
+    "loss": "weighted",
+    "weight_mode": "balanced",
+    "gamma": 2.0,
+    "class_weights": {
+        "actinic keratosis": 2.074074074074074,
+        "basal cell carcinoma": 0.6422939068100358,
+        "dermatofibroma": 2.5527065527065527,
+        "melanoma": 0.5804988662131519,
+        "nevus": 0.6961926961926962,
+        "pigmented benign keratosis": 0.5395965070761819,
+        "seborrheic keratosis": 3.2641165755919856,
+        "squamous cell carcinoma": 1.402190923317684,
+        "vascular lesion": 1.8608515057113189
+    },
+    "accuracy": 0.4491525423728814,
+    "macro_f1": 0.43161782147289396,
+    "macro_recall": 0.4583333333333333
+}

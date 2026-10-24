@@ -1,0 +1,24 @@
+{
+    "balanced": {
+        "actinic keratosis": 2.074074074074074,
+        "basal cell carcinoma": 0.6422939068100358,
+        "dermatofibroma": 2.5527065527065527,
+        "melanoma": 0.5804988662131519,
+        "nevus": 0.6961926961926962,
+        "pigmented benign keratosis": 0.5395965070761819,
+        "seborrheic keratosis": 3.2641165755919856,
+        "squamous cell carcinoma": 1.402190923317684,
+        "vascular lesion": 1.8608515057113189
+    },
+    "sqrt": {
+        "actinic keratosis": 1.4401645996461911,
+        "basal cell carcinoma": 0.8014324093833715,
+        "dermatofibroma": 1.5977191720407415,
+        "melanoma": 0.7619047619047619,
+        "nevus": 0.8343816250329918,
+        "pigmented benign keratosis": 0.7345723293700777,
+        "seborrheic keratosis": 1.8066866290510886,
+        "squamous cell carcinoma": 1.184141428765029,
+        "vascular lesion": 1.3641303111181566
+    }
+}

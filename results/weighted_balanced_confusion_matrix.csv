@@ -1,0 +1,10 @@
+,actinic keratosis,basal cell carcinoma,dermatofibroma,melanoma,nevus,pigmented benign keratosis,seborrheic keratosis,squamous cell carcinoma,vascular lesion
+actinic keratosis,4,3,0,0,1,5,0,3,0
+basal cell carcinoma,1,5,0,1,1,3,1,4,0
+dermatofibroma,0,0,6,1,3,2,1,2,1
+melanoma,0,0,1,3,10,1,1,0,0
+nevus,0,0,0,1,14,1,0,0,0
+pigmented benign keratosis,1,1,0,1,1,9,1,2,0
+seborrheic keratosis,0,0,0,2,0,0,0,1,0
+squamous cell carcinoma,0,0,0,2,2,3,0,9,0
+vascular lesion,0,0,0,0,0,0,0,0,3
